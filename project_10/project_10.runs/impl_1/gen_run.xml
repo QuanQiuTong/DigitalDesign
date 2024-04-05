@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1700997976">
+  <File Type="ROUTE-PWR" Name="HeartBeat_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="HeartBeat.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="HeartBeat_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="HeartBeat_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="HeartBeat_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="HeartBeat.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="HeartBeat_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="HeartBeat_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="HeartBeat_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="HeartBeat_opt.dcp"/>
+  <File Type="OPT-DRC" Name="HeartBeat_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="HeartBeat.hwdef"/>
+  <File Type="PWROPT-DCP" Name="HeartBeat_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="HeartBeat_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="HeartBeat_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="HeartBeat_placed.dcp"/>
+  <File Type="PLACE-IO" Name="HeartBeat_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="HeartBeat_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="HeartBeat_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="HeartBeat_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="HeartBeat_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="HeartBeat_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="HeartBeat_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="HeartBeat.bin"/>
+  <File Type="PLACE-TIMING" Name="HeartBeat_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="HeartBeat_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="HeartBeat_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="HeartBeat_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="HeartBeat.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="HeartBeat_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="HeartBeat_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="HeartBeat_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="HeartBeat.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="HeartBeat_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="HeartBeat_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="HeartBeat_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="HeartBeat_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="HeartBeat_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="HeartBeat_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="HeartBeat_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="HeartBeat_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="HeartBeat_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="HeartBeat_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="HeartBeat_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="HeartBeat_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="HeartBeat_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="HeartBeat_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="HeartBeat_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="HeartBeat_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="HeartBeat_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="HeartBeat_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="HeartBeat_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="HeartBeat_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="HeartBeat_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="HeartBeat_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="HeartBeat_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="top_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="top_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="top_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="top_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="HeartBeat.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="top_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="top_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="HeartBeat.nky"/>
+  <File Type="BITSTR-BMM" Name="HeartBeat_bd.bmm"/>
+  <File Type="PDI-FILE" Name="HeartBeat.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="HeartBeat_boot.pdi"/>
+  <File Type="PL-PDI-FILE" Name="HeartBeat_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="HeartBeat.rcfi"/>
+  <File Type="CFI_FILE" Name="HeartBeat.cfi"/>
+  <File Type="RNPI_FILE" Name="HeartBeat.rnpi"/>
+  <File Type="NPI_FILE" Name="HeartBeat.npi"/>
+  <File Type="RBD_FILE" Name="HeartBeat.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="HeartBeat.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="HeartBeat.sysdef"/>
+  <File Type="BG-BGN" Name="HeartBeat.bgn"/>
+  <File Type="BG-DRC" Name="HeartBeat.drc"/>
+  <File Type="RDI-RDI" Name="HeartBeat.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="HeartBeat_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="HeartBeat_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/HeartBeat.sv">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/controller.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/TrafficLight.sv">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="HeartBeat"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/Nexys4DDR_Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/top.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

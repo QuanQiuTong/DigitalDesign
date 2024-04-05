@@ -1,0 +1,13 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/Fu_Quantong/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sim_1/new/sim.sv,1696854122,systemVerilog,,,,sim,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sim_1/new/sim_b2g.sv,1696856652,systemVerilog,,,,sim_b2g,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/74LS138.sv,1696851760,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/Bin2Gray.sv,,_74LS138,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/Bin2Gray.sv,1696855286,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sim_1/new/sim_b2g.sv,,Bin2Gray,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/Hex7Seg.sv,1696851854,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/top.sv,,Hex7Seg,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/bin_to_gray.sv,1696856739,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sim_1/new/sim_b2g.sv,,bin_to_gray,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/top.sv,1696852894,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/x7seg.sv,,top,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_5/project_5.srcs/sources_1/new/x7seg.sv,1696853025,systemVerilog,,C:/Users/Fu_Quantong/project_5/project_5.srcs/sim_1/new/sim.sv,,x7seg,,uvm,,,,,,

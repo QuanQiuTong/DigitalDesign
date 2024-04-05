@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Dec 22 16:43:12 2023
+# Process ID: 11460
+# Current directory: C:/Users/Fu_Quantong/project_15/project_15.runs/Fudan320x320_synth_1
+# Command line: vivado.exe -log Fudan320x320.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Fudan320x320.tcl
+# Log file: C:/Users/Fu_Quantong/project_15/project_15.runs/Fudan320x320_synth_1/Fudan320x320.vds
+# Journal file: C:/Users/Fu_Quantong/project_15/project_15.runs/Fudan320x320_synth_1\vivado.jou
+# Running On: LAPTOP-HKFFG58C, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 17005 MB
+#-----------------------------------------------------------
+source Fudan320x320.tcl -notrace

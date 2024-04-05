@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../project_15.gen/sources_1/ip/Fudan320x320/sim/Fudan320x320.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

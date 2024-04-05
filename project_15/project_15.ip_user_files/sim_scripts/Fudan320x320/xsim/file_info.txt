@@ -1,0 +1,2 @@
+Fudan320x320.v,verilog,xil_defaultlib,../../../../project_15.gen/sources_1/ip/Fudan320x320/sim/Fudan320x320.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

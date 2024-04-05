@@ -1,0 +1,2 @@
+ASCII_ROM.v,verilog,xil_defaultlib,../../../../project_15.gen/sources_1/ip/ASCII_ROM/sim/ASCII_ROM.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

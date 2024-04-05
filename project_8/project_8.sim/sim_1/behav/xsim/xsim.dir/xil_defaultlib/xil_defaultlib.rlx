@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/Fu_Quantong/project_8/project_8.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_8/project_8.srcs/sim_1/new/sim.sv,1698993840,systemVerilog,,,,sim,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_8/project_8.srcs/sources_1/new/latch.sv,1698993271,systemVerilog,,C:/Users/Fu_Quantong/project_8/project_8.srcs/sim_1/new/sim.sv,,DFF;JKFF;JKFF2;JKFF3;latch,,uvm,,,,,,

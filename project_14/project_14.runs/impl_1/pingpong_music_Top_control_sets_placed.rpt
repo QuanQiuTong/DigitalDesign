@@ -1,0 +1,89 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+| Date         : Sat Dec 16 01:34:34 2023
+| Host         : LAPTOP-HKFFG58C running 64-bit major release  (build 9200)
+| Command      : report_control_sets -verbose -file pingpong_music_Top_control_sets_placed.rpt
+| Design       : pingpong_music_Top
+| Device       : xc7a100t
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Control Set Information
+
+Table of Contents
+-----------------
+1. Summary
+2. Histogram
+3. Flip-Flop Distribution
+4. Detailed Control Set Information
+
+1. Summary
+----------
+
++----------------------------------------------------------+-------+
+|                          Status                          | Count |
++----------------------------------------------------------+-------+
+| Total control sets                                       |    11 |
+|    Minimum number of control sets                        |    11 |
+|    Addition due to synthesis replication                 |     0 |
+|    Addition due to physical synthesis replication        |     0 |
+| Unused register locations in slices containing registers |    50 |
++----------------------------------------------------------+-------+
+* Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
+** Run report_qor_suggestions for automated merging and remapping suggestions
+
+
+2. Histogram
+------------
+
++--------------------+-------+
+|       Fanout       | Count |
++--------------------+-------+
+| Total control sets |    11 |
+| >= 0 to < 4        |     1 |
+| >= 4 to < 6        |     0 |
+| >= 6 to < 8        |     1 |
+| >= 8 to < 10       |     2 |
+| >= 10 to < 12      |     3 |
+| >= 12 to < 14      |     1 |
+| >= 14 to < 16      |     0 |
+| >= 16              |     3 |
++--------------------+-------+
+* Control sets can be remapped at either synth_design or opt_design
+
+
+3. Flip-Flop Distribution
+-------------------------
+
++--------------+-----------------------+------------------------+-----------------+--------------+
+| Clock Enable | Synchronous Set/Reset | Asynchronous Set/Reset | Total Registers | Total Slices |
++--------------+-----------------------+------------------------+-----------------+--------------+
+| No           | No                    | No                     |              32 |           17 |
+| No           | No                    | Yes                    |              56 |           24 |
+| No           | Yes                   | No                     |              17 |            7 |
+| Yes          | No                    | No                     |               1 |            1 |
+| Yes          | No                    | Yes                    |               9 |            3 |
+| Yes          | Yes                   | No                     |              27 |            8 |
++--------------+-----------------------+------------------------+-----------------+--------------+
+
+
+4. Detailed Control Set Information
+-----------------------------------
+
++----------------------+------------------------+------------------------+------------------+----------------+--------------+
+|     Clock Signal     |      Enable Signal     |    Set/Reset Signal    | Slice Load Count | Bel Load Count | Bels / Slice |
++----------------------+------------------------+------------------------+------------------+----------------+--------------+
+|  n_0_232_BUFG        | M1/address[16]_i_2_n_1 |                        |                1 |              1 |         1.00 |
+|  CLK100MHZ_IBUF_BUFG |                        | n_0_232_BUFG           |                2 |              6 |         3.00 |
+|  C2/CLK_BUFG         | P1/bar_y_t[10]_i_1_n_1 | BTND_IBUF              |                3 |              9 |         3.00 |
+|  n_0_232_BUFG        |                        |                        |                4 |              9 |         2.25 |
+|  CLK100MHZ_IBUF_BUFG |                        |                        |                5 |             10 |         2.00 |
+|  C1/Q_BUFG[0]        |                        | V1/hMaxed              |                5 |             11 |         2.20 |
+|  C1/Q_BUFG[0]        | V1/hMaxed              | V1/yPixel[10]_i_1_n_1  |                4 |             11 |         2.75 |
+|  C1/Q_BUFG[0]        |                        |                        |                8 |             13 |         1.62 |
+|  n_0_232_BUFG        | M1/address[16]_i_2_n_1 | M1/address[16]_i_1_n_1 |                4 |             16 |         4.00 |
+|  C2/CLK_BUFG         |                        | BTND_IBUF              |               10 |             22 |         2.20 |
+|  CLK100MHZ_IBUF_BUFG |                        | BTND_IBUF              |               14 |             34 |         2.43 |
++----------------------+------------------------+------------------------+------------------+----------------+--------------+
+
+

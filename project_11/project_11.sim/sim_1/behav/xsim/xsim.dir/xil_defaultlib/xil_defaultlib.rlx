@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/Fu_Quantong/project_11/project_11.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_11/project_11.srcs/sim_1/new/clock60_sim.sv,1701090391,systemVerilog,,,,clock60_sim,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_11/project_11.srcs/sim_1/new/count60.sv,1701087291,systemVerilog,,,,count60_sim,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_11/project_11.srcs/sources_1/new/clock.sv,1701090289,systemVerilog,,C:/Users/Fu_Quantong/project_11/project_11.srcs/sim_1/new/clock60_sim.sv,,Count;OneSecond,,uvm,,,,,,
+C:/Users/Fu_Quantong/project_11/project_11.srcs/sources_1/new/counter.sv,1701087616,systemVerilog,,C:/Users/Fu_Quantong/project_11/project_11.srcs/sim_1/new/count60.sv,,_74LS161;_74LS161A;_74LS163,,uvm,,,,,,

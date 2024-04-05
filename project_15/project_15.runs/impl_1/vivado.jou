@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Dec 22 17:45:01 2023
+# Process ID: 18212
+# Current directory: C:/Users/Fu_Quantong/project_15/project_15.runs/impl_1
+# Command line: vivado.exe -log screen_pic_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source screen_pic_Top.tcl -notrace
+# Log file: C:/Users/Fu_Quantong/project_15/project_15.runs/impl_1/screen_pic_Top.vdi
+# Journal file: C:/Users/Fu_Quantong/project_15/project_15.runs/impl_1\vivado.jou
+# Running On: LAPTOP-HKFFG58C, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 17005 MB
+#-----------------------------------------------------------
+source screen_pic_Top.tcl -notrace
